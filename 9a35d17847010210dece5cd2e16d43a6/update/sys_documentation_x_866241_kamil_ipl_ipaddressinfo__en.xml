@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="IPAddressInfo" language="en" table="x_866241_kamil_ipl_ipaddressinfo">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>IPAddressInfo</label>
+            <language>en</language>
+            <name>x_866241_kamil_ipl_ipaddressinfo</name>
+            <plural>IPAddressInfos</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-03-17 12:06:50</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IPAddressInfo</sys_name>
+            <sys_package display_value="Kamil IPLookup" source="x_866241_kamil_ipl">9a35d17847010210dece5cd2e16d43a6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Kamil IPLookup">9a35d17847010210dece5cd2e16d43a6</sys_scope>
+            <sys_update_name>sys_documentation_x_866241_kamil_ipl_ipaddressinfo__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-17 12:06:50</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
